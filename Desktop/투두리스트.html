@@ -1,0 +1,37 @@
+<html>
+  <head> </head>
+
+  <body>
+    <h1>투두리스트</h1>
+    <div>할 일들</div>
+    <p id="빨래하기" class="done">빨래하기</p>
+    <p id="청소하기" class="done">청소하기</p>
+    <p id="밥먹기" class="done">밥먹기</p>
+    <script>
+      const p1 = document.querySelector("#빨래하기");
+      const p2 = document.querySelector("#청소하기");
+      const p3 = document.querySelector("#밥먹기");
+      p1.addEventListener("click", (e) => {
+        if (e.target.className === "done") {
+          e.target.className = "";
+        } else {
+          e.target.className = "done";
+        }
+      });
+      p2.addEventListener("click", (e) => {
+        if (e.target.className === "done") {
+          e.target.className = "";
+        } else {
+          e.target.className = "done";
+        }
+      });
+      p3.addEventListener("click", (e) => {
+        if (e.target.className === "done") {
+          e.target.className = "";
+        } else {
+          e.target.className = "done";
+        }
+      });
+    </script>
+  </body>
+</html>
