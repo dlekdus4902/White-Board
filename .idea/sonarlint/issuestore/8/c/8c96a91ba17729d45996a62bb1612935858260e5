@@ -1,0 +1,9 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÚâĞûÿÿÿÿJ$13c7f4ce-5807-41ec-9f81-b0cab964cb3c
+v
+java:S1118
+":Add a private constructor to hide the implicit public one.(¶Ñ–J$3d8e480a-6bc7-4af0-9b9b-bb4e51477154
+t
+java:S1128",Remove this unused import 'java.awt.Insets'.(šôÇ³ûÿÿÿÿ8ù’ù€2J$241fdf3c-5153-42a9-a3db-30f162060348
+s
+java:S1128"0Remove this unused import 'javax.swing.JButton'.(´ÀÃ“8ù’ù€2J$e8b03ebe-79f1-491d-baa2-9385aea42e08

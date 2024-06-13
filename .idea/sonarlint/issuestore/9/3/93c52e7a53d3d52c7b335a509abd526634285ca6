@@ -1,0 +1,74 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±Ş «J$7848f462-7676-4f1f-90b6-ea0dd838a56d
+Ã
+java:S1319"The return type of this method should be an interface such as "ConcurrentMap" rather than the implementation "ConcurrentHashMap".(ˆ¸‰ÙÿÿÿÿÿJ$796508bb-d771-4774-9ecc-b20cf10b8ba9
+²
+java:S1319…"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(²¡Œ¯üÿÿÿÿJ$58e881b6-597d-4d3c-8d03-20ca06f76882
+¿
+java:S1319Ó"The return type of this method should be an interface such as "ConcurrentMap" rather than the implementation "ConcurrentHashMap".(¢ÑÍ¹J$c5a872a9-495d-4c94-b903-f626ce20782a
+š
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(© éÈıÿÿÿÿJ$2c5c8e1e-b02e-4b5d-90cd-fd17e996cc2b
+•
+java:S2293&"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªûéÈJ$74651a0a-83b3-4b33-af85-5a3d4c0b219c
+•
+java:S2293'"YReplace the type specification in this constructor call with the diamond operator ("<>").(•­ØüJ$097776c7-0f4e-4e86-ae1f-589bc26ebc8c
+–
+java:S2293å"YReplace the type specification in this constructor call with the diamond operator ("<>").(“š÷ÏJ$8855ecc5-ec06-4943-8e19-ce4840574b3c
+›
+java:S2293ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûÚŸôøÿÿÿÿJ$649d6b43-9a2f-428f-88cc-acfe9dadc27f
+–
+java:S2293è"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢‡‹™J$ed9de59a-e1e7-4112-82f4-7ad4ce3c11a7
+–
+java:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢‡‹™J$d44d983e-6965-4a7b-8358-ceda3ab7126f
+’
+java:S3077,"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¼Úß$J$323e9d47-d238-479d-9dd9-6f1ebf63534a
+€
+java:S1124."EReorder the modifiers to comply with the Java Language Specification.(îšËUJ$f8ed0b1b-3658-47d4-954d-1798ff0a1cf3
+v	java:S899o";Do something with the "boolean" value returned by "remove".(ïŠŠúJ$d61089f2-4d13-4b8d-bc48-d2713abd9cc2
+g	java:S106 "+Replace this use of System.out by a logger.(­ı¹J$ab85e519-3148-46e9-84d4-19a68b254708
+{
+java:S4719¬"9Replace charset name argument with StandardCharsets.UTF_8(ïÑõÆúÿÿÿÿJ$0ab1fd28-0fc7-49dd-a572-462c491e318f
+g	java:S106±"+Replace this use of System.out by a logger.(”¬ØèJ$dcf6f32a-f9dd-4cbb-a1a0-32a7dbd68b57
+{
+java:S4719¼"9Replace charset name argument with StandardCharsets.UTF_8(ïÑõÆúÿÿÿÿJ$e77b4b36-b170-40e2-965f-13360e4d2f46
+k
+java:S1905É")Remove this unnecessary cast to "Socket".(Ñ×¼ úÿÿÿÿJ$2deb8249-068b-45ad-9563-587373299d73
+f
+java:S1905Ü")Remove this unnecessary cast to "Socket".(¹‹ì˜J$e093cede-5808-4f8d-a351-3d7ee5c6fcdf
+g	java:S106ì"+Replace this use of System.out by a logger.(¿Ñ¶”J$c766c439-1d61-432a-a0ce-61c7521386dd
+X
+java:S3626ö"Remove this redundant jump.(ÉŠ©ƒJ$6827c4d3-a10e-48dc-962c-fedb31f392d2
+k
+java:S1905ø")Remove this unnecessary cast to "Socket".(Ñ×¼ úÿÿÿÿJ$1a7b5fdf-c931-4abd-8e37-07fce57da5d7
+v
+java:S4719ü"9Replace charset name argument with StandardCharsets.UTF_8(·¤§J$fe0127ea-6c1f-4f2b-a4a4-66554354acac
+k
+java:S1905")Remove this unnecessary cast to "Socket".(Ñ×¼ úÿÿÿÿJ$49094b86-23b1-48ea-b274-62d54e60d07a
+v
+java:S4719‘"9Replace charset name argument with StandardCharsets.UTF_8(·¤§J$35978c58-3fbf-4fc0-b31d-8372031d3930
+x	java:S125"<This block of commented-out lines of code should be removed.(ÛòÚœJ$3eb3655c-5ceb-4c28-9d43-f49d3776e89d
+l	java:S106ç"+Replace this use of System.out by a logger.(í…üşÿÿÿÿJ$ab637145-a276-4a13-b52c-16ed67457d57
+l	java:S106ê"+Replace this use of System.out by a logger.(½œëˆÿÿÿÿÿJ$a9ae206f-f80d-4510-b36c-dbd9bb7b097a
+k
+java:S1905í")Remove this unnecessary cast to "Socket".(ÔîÅÄûÿÿÿÿJ$7f5f462c-e8b9-4f0f-837a-f481d92b90ca
+k
+java:S1905î")Remove this unnecessary cast to "String".(ëúµ¨üÿÿÿÿJ$72d3646e-2c73-4939-9e7e-5f8d6c67144e
+{
+java:S4719ò"9Replace charset name argument with StandardCharsets.UTF_8(ïÑõÆúÿÿÿÿJ$977d5a96-f133-4ca9-bc84-f4802b7f99a2
+l	java:S106ù"+Replace this use of System.out by a logger.(Ÿìû‚øÿÿÿÿJ$dfa3b9b9-ee40-4165-83e0-ba8185fd346b
+
+java:S1128">Remove this unused import 'java.security.InvalidKeyException'.(ì£ğ»ÿÿÿÿÿJ$cabe73ce-20f6-4d94-bc79-ae6dca385218
+o
+java:S1128".Remove this unused import 'java.security.Key'.(ŞÃ“úÿÿÿÿJ$67870606-cc5b-4f46-bd9e-6f646524f3ca
+~
+java:S1128"=Remove this unused import 'javax.crypto.BadPaddingException'.(ŒÚ¤øùÿÿÿÿJ$79b1e5f5-3dda-479b-9057-4d5f4f6ecd1e
+q
+java:S1128"0Remove this unused import 'javax.crypto.Cipher'.(ç‡‡³øÿÿÿÿJ$c4481cc0-233d-4409-a311-d80631e17f58
+„
+java:S1128"CRemove this unused import 'javax.crypto.IllegalBlockSizeException'.(¸ÄûÿÿÿÿJ$555b8760-4b46-4a65-b584-75d3a08efde0
+
+java:S1128"@Remove this unused import 'javax.crypto.NoSuchPaddingException'.(âÆ×øÿÿÿÿÿJ$b9be9b46-3abd-4a00-8a11-1ba8ad305025
+}
+java:S1128"<Remove this unused import 'javax.crypto.spec.SecretKeySpec'.(¹«è•üÿÿÿÿJ$6da87fcc-cfd6-4b01-8d5b-1d39e7d40d38
+k
+java:S1128"*Remove this unused import 'Server.Server'.(¦” ÿÿÿÿÿJ$de043a05-462d-49de-882a-e82d70d5e10f

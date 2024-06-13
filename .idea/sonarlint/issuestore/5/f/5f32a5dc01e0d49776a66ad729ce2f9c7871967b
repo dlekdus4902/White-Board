@@ -1,0 +1,74 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±Ş «
+
+java:S1319"The return type of this method should be an interface such as "ConcurrentMap" rather than the implementation "ConcurrentHashMap".(ˆ¸‰Ùÿÿÿÿÿ
+Œ
+java:S1319…"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(²¡Œ¯üÿÿÿÿ
+™
+java:S1319Ó"The return type of this method should be an interface such as "ConcurrentMap" rather than the implementation "ConcurrentHashMap".(¢ÑÍ¹
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(© éÈıÿÿÿÿ
+o
+java:S2293&"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªûéÈ
+o
+java:S2293'"YReplace the type specification in this constructor call with the diamond operator ("<>").(•­Øü
+p
+java:S2293å"YReplace the type specification in this constructor call with the diamond operator ("<>").(“š÷Ï
+u
+java:S2293ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûÚŸôøÿÿÿÿ
+p
+java:S2293è"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢‡‹™
+p
+java:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢‡‹™
+l
+java:S3077,"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¼Úß$
+Z
+java:S1124."EReorder the modifiers to comply with the Java Language Specification.(îšËU
+P	java:S899o";Do something with the "boolean" value returned by "remove".(ïŠŠú
+A	java:S106 "+Replace this use of System.out by a logger.(­ı¹
+U
+java:S4719¬"9Replace charset name argument with StandardCharsets.UTF_8(ïÑõÆúÿÿÿÿ
+A	java:S106±"+Replace this use of System.out by a logger.(”¬Øè
+U
+java:S4719¼"9Replace charset name argument with StandardCharsets.UTF_8(ïÑõÆúÿÿÿÿ
+E
+java:S1905É")Remove this unnecessary cast to "Socket".(Ñ×¼ úÿÿÿÿ
+@
+java:S1905Ü")Remove this unnecessary cast to "Socket".(¹‹ì˜
+A	java:S106ì"+Replace this use of System.out by a logger.(¿Ñ¶”
+2
+java:S3626ö"Remove this redundant jump.(ÉŠ©ƒ
+E
+java:S1905ø")Remove this unnecessary cast to "Socket".(Ñ×¼ úÿÿÿÿ
+P
+java:S4719ü"9Replace charset name argument with StandardCharsets.UTF_8(·¤§
+E
+java:S1905")Remove this unnecessary cast to "Socket".(Ñ×¼ úÿÿÿÿ
+P
+java:S4719‘"9Replace charset name argument with StandardCharsets.UTF_8(·¤§
+R	java:S125"<This block of commented-out lines of code should be removed.(ÛòÚœ
+F	java:S106ç"+Replace this use of System.out by a logger.(í…üşÿÿÿÿ
+F	java:S106ê"+Replace this use of System.out by a logger.(½œëˆÿÿÿÿÿ
+E
+java:S1905í")Remove this unnecessary cast to "Socket".(ÔîÅÄûÿÿÿÿ
+E
+java:S1905î")Remove this unnecessary cast to "String".(ëúµ¨üÿÿÿÿ
+U
+java:S4719ò"9Replace charset name argument with StandardCharsets.UTF_8(ïÑõÆúÿÿÿÿ
+F	java:S106ù"+Replace this use of System.out by a logger.(Ÿìû‚øÿÿÿÿ
+Y
+java:S1128">Remove this unused import 'java.security.InvalidKeyException'.(ì£ğ»ÿÿÿÿÿ
+I
+java:S1128".Remove this unused import 'java.security.Key'.(ŞÃ“úÿÿÿÿ
+X
+java:S1128"=Remove this unused import 'javax.crypto.BadPaddingException'.(ŒÚ¤øùÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'javax.crypto.Cipher'.(ç‡‡³øÿÿÿÿ
+^
+java:S1128"CRemove this unused import 'javax.crypto.IllegalBlockSizeException'.(¸Äûÿÿÿÿ
+[
+java:S1128"@Remove this unused import 'javax.crypto.NoSuchPaddingException'.(âÆ×øÿÿÿÿÿ
+W
+java:S1128"<Remove this unused import 'javax.crypto.spec.SecretKeySpec'.(¹«è•üÿÿÿÿ
+E
+java:S1128"*Remove this unused import 'Server.Server'.(¦” ÿÿÿÿÿ

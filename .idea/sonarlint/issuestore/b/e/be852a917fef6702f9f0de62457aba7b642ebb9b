@@ -1,0 +1,14 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÚâĞûÿÿÿÿJ$55f401cc-5fb2-4af3-9e2f-0f8d72ef7651
+{
+java:S1118":Add a private constructor to hide the implicit public one.(ŞÃàÛûÿÿÿÿJ$9852a456-637c-49f3-8902-e098399b2c50
+x
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(¼­ƒ¦J$de8e6c28-1611-4f5a-9f3e-9bf709369217
+}
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(éÆÆÇùÿÿÿÿJ$729e8536-2ca4-429a-bd75-597fa5fb9a5f
+ˆ
+java:S5998"LRefactor this repetition that can lead to a stack overflow for large inputs.(‡ã³ıJ$02ee89df-5764-4b75-87cb-2f6397900cd3
+w
+java:S6353#"<Use concise character class syntax '\\d' instead of '[0-9]'.(á§àBJ$14cef2d2-96b7-4bae-af9c-44a42ee0ac3d
+w
+java:S6353#"<Use concise character class syntax '\\d' instead of '[0-9]'.(á§àBJ$fe0e48aa-93cc-4965-afd5-c40cb7319a4c

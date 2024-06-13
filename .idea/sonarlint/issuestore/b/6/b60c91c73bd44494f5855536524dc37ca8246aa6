@@ -1,0 +1,31 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿÂõæ
+|
+java:S1319"fThe type of "shapes" should be an interface such as "List" rather than the implementation "ArrayList".(•¡ğê
+‹
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(£èûïşÿÿÿÿ
+|
+java:S1319"fThe type of "shapes" should be an interface such as "List" rather than the implementation "ArrayList".(øÜÏù
+t
+java:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(Î’ƒûÿÿÿÿ
+t
+java:S2293Q"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘¿×êùÿÿÿÿ
+k
+java:S20959"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(ˆÔ§ğşÿÿÿÿ
+j
+java:S2095H"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(¾Å¨Îûÿÿÿÿ
+k
+java:S2095,"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(ˆÔ§ğşÿÿÿÿ
+h
+java:S2095G"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¶Ê®‘ÿÿÿÿÿ
+d
+java:S20958"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(¸Ÿùœ
+i
+java:S2095+"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Š×Øùùÿÿÿÿ
+c	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğúÅ§
+c	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¾‹É
+h	java:S1006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“°ù„ıÿÿÿÿ
+c	java:S100C"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¶–Ñ
+E	java:S106E"+Replace this use of System.out by a logger.(…ßœ¥şÿÿÿÿ
+U
+java:S1117J":Rename "shapes" which hides the field declared at line 17.(ı¹ì²úÿÿÿÿ

@@ -1,0 +1,18 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÚâĞûÿÿÿÿJ$cf54de51-988f-44c9-b391-17e46b624a17
+{
+java:S1118":Add a private constructor to hide the implicit public one.(ñÆÑßúÿÿÿÿJ$a7037b49-ebe1-42b1-8c1d-cd4a339aa5a6
+~
+java:S6437"6Revoke and change this password, as it is compromised.(òù“¯ıÿÿÿÿ8ıâ°ù€2J$7c6a48b0-4428-4389-b2f2-33bb414d4186
+d
+java:S5542"Use a secure padding scheme.(÷Èİÿøÿÿÿÿ8ıâ°ù€2J$5a2a139f-e423-4637-8661-dc4c78c64e39
+r	java:S106"+Replace this use of System.err by a logger.(§ïÉµøÿÿÿÿ8şâ°ù€2J$92039b47-d777-46ba-901e-843e0a6fc39f
+~
+java:S6437"6Revoke and change this password, as it is compromised.(òù“¯ıÿÿÿÿ8şâ°ù€2J$9cb06eda-6131-4b92-9d27-4e796d7c76da
+d
+java:S5542"Use a secure padding scheme.(÷Èİÿøÿÿÿÿ8ÿâ°ù€2J$e6c31349-ccaa-4f8e-8643-245fb2fa354c
+
+java:S4719!"9Replace charset name argument with StandardCharsets.UTF_8(°™ù¦ûÿÿÿÿ8ÿâ°ù€2J$caf33fda-05c7-4c84-b332-bb043f38ba4f
+m	java:S106#"+Replace this use of System.err by a logger.(İçÎ8ÿâ°ù€2J$6a0babfa-bf90-4f79-b501-c23e4d763583
+c
+java:S2129#" Remove this "String" constructor(İçÎ8ÿâ°ù€2J$21d56484-7fda-404c-ba4e-7a3edf601b8b

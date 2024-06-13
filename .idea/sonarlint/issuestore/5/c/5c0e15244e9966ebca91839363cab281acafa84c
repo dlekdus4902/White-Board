@@ -1,0 +1,42 @@
+
+p
+java:S1604""(Make this anonymous inner class a lambda(¤©Òâüÿÿÿÿ8é˜ãâ€2J$d2827ef1-44b6-46e0-b0a4-8fee4239c98f
+k
+java:S1604Š"(Make this anonymous inner class a lambda(Ï¹§8é˜ãâ€2J$0b93b57c-b73f-45cd-8a2b-bf0975d72fbe
+l
+java:S1604½"(Make this anonymous inner class a lambda(å³²8é˜ãâ€2J$a861dea1-8a3b-404a-90d8-cb384d3321a8
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾©ò¹8é˜ãâ€2J$a135e6f9-0345-4bfc-be62-9fc66e3259ff
+
+java:S1104"[Make messageAppender a static final constant or non-public and provide accessors if needed.(Ü —£8é˜ãâ€2J$9e1ec44a-4a0d-4e95-9397-46f88806657e
+’
+java:S1104"OMake dtf a static final constant or non-public and provide accessors if needed.(Æ¡ÔË8é˜ãâ€2J$50d381ee-aed3-45f7-b5e0-efff333c28fd
+›
+java:S1104"SMake logPane a static final constant or non-public and provide accessors if needed.(õÛôÚùÿÿÿÿ8é˜ãâ€2J$ea004c71-15c7-4674-8d04-a0c86738939d
+œ
+java:S1104"YMake logScrollPane a static final constant or non-public and provide accessors if needed.(ƒ€ÊÅ8é˜ãâ€2J$559cef6a-5787-4bd2-9f35-fecee6750538
+x
+java:S1444"5Make this "public static messageAppender" field final(Ü —£8ë˜ãâ€2J$23a561e2-5c72-4964-9f9e-18a8ceb4b1b3
+l
+java:S1444")Make this "public static dtf" field final(Æ¡ÔË8ë˜ãâ€2J$cb8a4db7-447f-44a2-91f5-e8166eb71a9f
+u
+java:S1444"-Make this "public static logPane" field final(õÛôÚùÿÿÿÿ8ë˜ãâ€2J$cc35f819-3d9d-44ba-8249-b7b37e90d40d
+v
+java:S1444"3Make this "public static logScrollPane" field final(ƒ€ÊÅ8ë˜ãâ€2J$7081d583-8a6b-4657-a486-f4ca3e1bbb07
+
+java:S1192"FDefine a constant instead of duplicating this literal "Alert" 4 times.(Ä¥Ğ›ÿÿÿÿÿ8ì˜ãâ€2J$babf04b2-f257-44bf-b401-81d56a130656
+~
+java:S26963"6Make the enclosing method "static" or remove this set.(ŞËÎ²ÿÿÿÿÿ8ñ˜ãâ€2J$df7e86ff-f53c-4c00-99a8-efc0531bc55d
+x
+java:S26964"6Make the enclosing method "static" or remove this set.(âûÎI8ñ˜ãâ€2J$beaf7ba3-9523-4399-964a-d59db5d5df7a
+…
+java:S32526"=Use static access with "java.awt.Frame" for "MAXIMIZED_BOTH".(“úêıùÿÿÿÿ8ò˜ãâ€2J$7d369793-275b-4508-b551-f6700f91f4f6
+~
+java:S2696B"6Make the enclosing method "static" or remove this set.(Ì™ûÿÿÿÿ8ò˜ãâ€2J$a16115a0-ebf4-4baa-a0c0-eca5709acb47
+i
+java:S1905H"&Remove this unnecessary cast to "int".(İ¥¡‚8ó˜ãâ€2J$7b9955e9-e61c-4d20-9cb8-521e7121a7ba
+i
+java:S1905H"&Remove this unnecessary cast to "int".(İ¥¡‚8ó˜ãâ€2J$8fe12c64-febf-4cdf-b31a-5c6fd142b4a4
+~
+java:S2696"6Make the enclosing method "static" or remove this set.(¨Æ¤‚şÿÿÿÿ8ö˜ãâ€2J$6f5a9b01-99d5-408f-9631-9ab4f5856919
+z
+java:S2696‚"6Make the enclosing method "static" or remove this set.(áºÊ“8ö˜ãâ€2J$5b0792fd-240d-4a36-aee5-3723e6cc1a14

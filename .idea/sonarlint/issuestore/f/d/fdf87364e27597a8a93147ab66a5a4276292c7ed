@@ -1,0 +1,54 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•İÈ‚ıÿÿÿÿJ$66310acb-bccd-4e72-a6dd-32130993e53a
+m
+java:S1153Q"1Directly append the argument of String.valueOf().(ÉØÂúJ$9bb7f9ee-6b4e-4b72-8456-e1f6388ece0c
+m
+java:S1153o"1Directly append the argument of String.valueOf().(ÉØÂúJ$bbd47a50-b873-49d5-9ae8-04b2ef56ea68
+n
+java:S1153Š"1Directly append the argument of String.valueOf().(ÉØÂúJ$52b4fbd7-3fd4-41b2-a08a-f0ffca87e8ef
+n
+java:S1153¸"1Directly append the argument of String.valueOf().(ÉØÂúJ$d1db29f2-2663-43cb-a17c-71106033b7b3
+n
+java:S1153Ó"1Directly append the argument of String.valueOf().(ÉØÂúJ$ce0cb5c3-eb47-4d65-9abe-e0cd01506416
+n
+java:S1153î"1Directly append the argument of String.valueOf().(ÉØÂúJ$3faf302c-f805-45fb-bab5-f104857b70b4
+n
+java:S1153Š"1Directly append the argument of String.valueOf().(ÉØÂúJ$81a08151-7056-487c-9ddb-f60d0c7ac815
+n
+java:S1153¹"1Directly append the argument of String.valueOf().(ÉØÂúJ$0c45dbbc-8bed-4b91-bb05-64daf683e1cc
+n
+java:S1153Ô"1Directly append the argument of String.valueOf().(ÉØÂúJ$6c9e097f-b14b-404f-b8f9-c8564acef925
+n
+java:S1153ï"1Directly append the argument of String.valueOf().(ÉØÂúJ$a0a25b8a-234b-4b56-a18f-abba2a93d6c0
+n
+java:S1153‰"1Directly append the argument of String.valueOf().(ÉØÂúJ$653c04d6-cdab-43ba-9eae-4e668121e0a1
+…
+java:S1192Q"IDefine a constant instead of duplicating this literal "Timeout" 12 times.(ÉØÂúJ$77a8ed41-39a2-4013-888e-5a9ef2c39607
+„
+java:S1192I"HDefine a constant instead of duplicating this literal "Source" 13 times.(æ‚İ´J$d568d541-2a13-42b0-8d1e-b8e2fb8574c6
+Ô
+java:S1192V"˜Define a constant instead of duplicating this literal "Failure: Connection is lost or Server is down | Terminate the client and restart later" 13 times.(£‘¡OJ$35de45f7-9ccf-49c0-99ae-1a23cd9f511b
+‹
+java:S1192³"IDefine a constant instead of duplicating this literal "Username" 8 times.(¹“›ÄşÿÿÿÿJ$c5033e5f-cc71-4541-9b06-e8c444f2e04f
+¤
+java:S1192Q"hDefine a constant instead of duplicating this literal " Request timeout, check the connection" 11 times.(ÉØÂúJ$771eb259-24af-46c8-bcef-898ed4d72b18
+Ü
+java:S1192Z"ŸDefine a constant instead of duplicating this literal "Failure: IO Exception, check input or output streams | Terminate the client and restart later" 13 times.(Éğ¥J$4ea2c015-4c07-4ed7-85c2-2b3f29389947
+„
+java:S1192I"HDefine a constant instead of duplicating this literal "Client" 13 times.(æ‚İ´J$b86f0a9b-200c-438a-b186-7bb616168a49
+Â
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ĞØš£ÿÿÿÿÿJ$5dd7686a-85e5-416e-a5ef-fae08944335f
+µ
+java:S1130"tRemove the declaration of thrown exception 'java.net.ConnectException' which is a subclass of 'java.io.IOException'.(¤ÄËøÿÿÿÿJ$6d8a5dd1-b075-4f3e-9ab5-36e216385e43
+¹
+java:S1130"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(¤ÄËøÿÿÿÿJ$e1ae16ff-b425-4581-a17f-05c1c1a9cb86
+f	java:S106"+Replace this use of System.out by a logger.(ÖÅ£úJ$9599958f-c80d-443f-b891-f3eba197e5ef
+f	java:S106"+Replace this use of System.out by a logger.(··ÛëJ$f3261a91-9a5a-4ad0-a0ba-afa403e61c4b
+f	java:S106"+Replace this use of System.out by a logger.(»‚òâJ$f5c09089-bbcc-4e2b-9fd8-c5bff7914fb0
+u
+java:S4719)"9Replace charset name argument with StandardCharsets.UTF_8(™”–ÂJ$20aa616b-a5c4-4694-bf18-4e198ade5532
+w	java:S125„"<This block of commented-out lines of code should be removed.(‘ÚaJ$4a487b98-f11a-4228-a6ac-e59222c95a3f
+R
+java:S1172˜"/Remove this unused method parameter "threshod".(ĞşÛ÷øÿÿÿÿ8ÿ«öâ€2
+M
+java:S1172˜"/Remove this unused method parameter "threshod".(ô¹’ı8ˆ¬öâ€2

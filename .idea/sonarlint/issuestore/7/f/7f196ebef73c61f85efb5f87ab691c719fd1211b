@@ -1,0 +1,243 @@
+
+i
+java:S1604f"(Make this anonymous inner class a lambda(¤©ÒâüÿÿÿÿJ$e9858b82-00d5-4de4-9445-9065176b00dd
+j
+java:S1604‘"(Make this anonymous inner class a lambda(ìËÃáûÿÿÿÿJ$fabac025-48a9-4692-b1b8-1ce5c0d227c6
+j
+java:S1604³"(Make this anonymous inner class a lambda(Çãß×üÿÿÿÿJ$28194e47-33e6-49e6-88cd-a7356b8ca2ed
+q
+java:S1604—"(Make this anonymous inner class a lambda(ŸŠ‚şıÿÿÿÿ8òßâ€2J$c5ea3d6f-8d86-43b9-8391-fcfbaf78a703
+j
+java:S1604–"(Make this anonymous inner class a lambda(ÊÁÉÃüÿÿÿÿJ$d4b88cae-86e7-4415-922d-aaac98bdfc9b
+e
+java:S1604ı"(Make this anonymous inner class a lambda(É½ÿäJ$77918330-6313-46ea-82ec-356cb5b24308
+e
+java:S1604á"(Make this anonymous inner class a lambda(ñÅÕ£J$e7af7112-9536-4dac-bda2-28db4d237512
+j
+java:S1604†"(Make this anonymous inner class a lambda(ç»ëÈøÿÿÿÿJ$248d63ae-006c-4d01-b298-8117bb81b045
+j
+java:S1604—"(Make this anonymous inner class a lambda(™øü»şÿÿÿÿJ$d3d6ae8d-44fa-48f6-908b-38236b2b3a82
+q
+java:S1604»"(Make this anonymous inner class a lambda(×À¯óøÿÿÿÿ8†”™Ù€2J$4fb2c7d6-13f4-4b94-9ce5-72a521c195fd
+l
+java:S1604Æ"(Make this anonymous inner class a lambda(ˆÚ‘8—òßâ€2J$d70e12eb-e721-4152-9998-6fbcab45592c
+K
+java:S1604ß"(Make this anonymous inner class a lambda(»ÛÑûÿÿÿÿ8Œóöâ€2
+l
+java:S1604ù"(Make this anonymous inner class a lambda(ƒû™´8šòßâ€2J$45a84558-f4bb-42d9-8647-3f8d5e0f0b2f
+l
+java:S1604È"(Make this anonymous inner class a lambda(¦ÃáÆ8òßâ€2J$bba7cf6e-5c05-4e91-9d0a-95b980a19b5d
+q
+java:S1604Ş"(Make this anonymous inner class a lambda(òì°ªùÿÿÿÿ8òßâ€2J$242de021-7f5f-4cdf-a91f-ee74739f8d64
+l
+java:S1604ˆ"(Make this anonymous inner class a lambda(°Èå©8Şíëâ€2J$78a23f23-2019-4469-8d00-993a4bc16fce
+l
+java:S1604"(Make this anonymous inner class a lambda(óÑŠµ8ßíëâ€2J$075cbd12-646c-475a-9e60-0474b06168ea
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•İÈ‚ıÿÿÿÿJ$194eef0d-08f8-4b5d-a184-59cb7b70c4d8
+œ
+java:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(è£ÚÍ8¤òßâ€2J$bea2bc22-1985-4757-85ec-441e229cda33
+¢
+java:S2293ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢ÊÀüÿÿÿÿ8§òßâ€2J$1e56bffd-81de-4db9-87c8-0a99b804b219
+w
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿJ$a4c7ef0d-4231-4627-8a3f-6f54f8c779ef
+w
+java:S1141ª"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿJ$2dc8fe38-95a0-44b2-bab1-3f0e5d979902
+w
+java:S1141±"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿJ$6d1b70e8-b037-45b4-940f-50a41c1d1701
+X
+java:S1141¸"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8—óöâ€2
+X
+java:S1141 "5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8—óöâ€2
+X
+java:S1141§"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8—óöâ€2
+…
+java:S1192Ê"HDefine a constant instead of duplicating this literal "Server" 13 times.(Ù¼°ÕJ$43e29b5c-0017-417a-b9e4-cebd5fe2e97a
+ˆ
+java:S1192ò"KDefine a constant instead of duplicating this literal "TimesRoman" 3 times.(¶—·‰J$a12ce944-fe9e-421f-8006-a2db66182a81
+‘
+java:S1192Ë"MDefine a constant instead of duplicating this literal "ObjectString" 3 times.(äŠÖ‡8”™Ù€2J$10e58f92-b20a-4d92-a28b-b434ed5761de
+ˆ
+java:S11926"GDefine a constant instead of duplicating this literal "eraser" 3 times.(£öËÏûÿÿÿÿJ$5932068f-8824-4707-ba22-4dbc3764c3bf
+…
+java:S1192Ê"HDefine a constant instead of duplicating this literal "Source" 13 times.(Ù¼°ÕJ$ced74483-9cf7-42d3-a840-053ade1cb8ab
+‹
+java:S11926"JDefine a constant instead of duplicating this literal "free draw" 4 times.(£öËÏûÿÿÿÿJ$a1e98980-e6a8-4c82-b908-a48dfa350256
+e
+java:S1192À"GDefine a constant instead of duplicating this literal "Alert" 15 times.(¯Ã’Î8³óöâ€2
+’
+java:S1192ü"IDefine a constant instead of duplicating this literal "username" 4 times.(Äñ¹çüÿÿÿÿ8´òßâ€2J$abcf4c24-7f3c-4ead-8e9f-ec186173ce7e
+€
+java:S1659?"?Declare "y1" and all following declarations on a separate line.(‚ˆö¼şÿÿÿÿJ$29a387a7-94fd-498e-8abf-443b8d7f55a6
+ 
+java:S1450R"]Remove the "boardInfoPanel" field and declare it as a local variable in the relevant methods.(Äì¯š8»òßâ€2J$c537422b-94f9-43cd-9151-6cc5ee48827f
+œ
+java:S1450*"[Remove the "clientThread" field and declare it as a local variable in the relevant methods.(õ½ÑÜùÿÿÿÿJ$f6b3c3d6-acf1-48b9-a72a-3bb2418b8a4e
+ 
+java:S1450S"_Remove the "drawControlPanel" field and declare it as a local variable in the relevant methods.(ç¿Ì‰şÿÿÿÿJ$daa9a811-22e8-41d3-ad9d-b4ca8e05dc8e
+Ÿ
+java:S1450Q"^Remove the "drawPanelHeader" field and declare it as a local variable in the relevant methods.(°Ÿ‡®üÿÿÿÿJ$12b329db-f701-4c57-9300-6260c61323e9
+™
+java:S1450Z"XRemove the "returnBtn" field and declare it as a local variable in the relevant methods.(ó©ÿ–ùÿÿÿÿJ$41fd7957-4912-49a6-87ba-06209a67a56a
+
+java:S1450Y"VRemove the "sendBtn" field and declare it as a local variable in the relevant methods.(¶ˆ§˜şÿÿÿÿ8‡îëâ€2J$c608b3d6-d0b7-46ed-a5ff-e35cd03dc31d
+X
+java:S11164"Remove this empty statement.(è£ÚÍJ$3820bc3f-4dbb-4882-9c9a-691de2c50e59
+€
+java:S1124F"EReorder the modifiers to comply with the Java Language Specification.(†°üJ$88062227-dfa7-482f-b43c-a18dc3a62153
+
+java:S1124G"EReorder the modifiers to comply with the Java Language Specification.(í¢ÙÉJ$d25ea481-272d-42f6-94d8-a4820f07102b
+†
+java:S1124H"EReorder the modifiers to comply with the Java Language Specification.(Æ•¨êıÿÿÿÿJ$483f67d4-dea2-405f-823a-2cedbc4fc3b1
+†
+java:S1124I"EReorder the modifiers to comply with the Java Language Specification.(ï²ûÎøÿÿÿÿJ$6caf1e0c-ebc2-492d-8cce-846209e6b88a
+
+java:S1124K"EReorder the modifiers to comply with the Java Language Specification.(±ì¸J$781699ea-002a-4107-9c89-da65d9d221ad
+
+java:S1124L"EReorder the modifiers to comply with the Java Language Specification.(›…ıˆJ$c756676e-26eb-4121-91be-3c37e28eded6
+
+java:S3776e"SRefactor this method to reduce its Cognitive Complexity from 137 to the 15 allowed.(Çµí‘J$c526a0f9-cecc-496a-a740-afecb4bc766a
+d
+java:S1116|"Remove this empty statement.(ÎÍíøÿÿÿÿ8Ï”™Ù€2J$1a1d9804-6ed2-44c9-9b00-c7681ba05eba
+l	java:S106…"+Replace this use of System.out by a logger.(ÜïŞ±üÿÿÿÿJ$0e1e3994-80b6-486f-8c5d-10a3cd090981
+l	java:S106‹"+Replace this use of System.out by a logger.(µ×ÅãüÿÿÿÿJ$73826bee-0d19-4544-a42d-5c43942527b0
+X
+java:S3626ˆ"Remove this redundant jump.(ÉŠ©ƒJ$01cf7cdb-856d-4f62-a4d7-a239eb31b55d
+‚
+java:S2147‘"ECombine this catch with the one at line 397, which has the same body.(†ğË¹J$345b3f8b-f6f9-4dce-905b-64d35a6d03e7
+›
+java:S2142 "^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€J$7a04a1ea-7e1c-458e-9699-79043594af70
+c
+java:S1125¥"'Remove the unnecessary boolean literal.(šªä!J$9a042325-c831-44f3-9009-3011ea5ad77d
+s	java:S106¦"+Replace this use of System.out by a logger.(•½÷¶ıÿÿÿÿ8ìÄÏâ€2J$47df3041-5624-447d-96de-63fae05e7e92
+e
+java:S1116²"Remove this empty statement.(ÎÍíøÿÿÿÿ8ñÄÏâ€2J$426409e1-5944-404a-b539-677ac6272cbc
+M	java:S106»"+Replace this use of System.out by a logger.(ÜïŞ±üÿÿÿÿ8Öóöâ€2
+s	java:S106Å"+Replace this use of System.out by a logger.(ÙşÈşúÿÿÿÿ8º”™Ù€2J$ecadd26e-0d09-46ec-af50-923b2347b4d1
+Œ
+java:S1858Å"J"content" is already a string, there's no need to call "toString()" on it.(ÙşÈşúÿÿÿÿJ$4899dc64-d30f-4dd9-938b-64c35c06b7a2
+x	java:S125ó"<This block of commented-out lines of code should be removed.(ˆ‰ĞªJ$ede9ac2e-bbcf-4fb0-b602-6a1ad09c0d07
+‹
+java:S3252Š"OUse static access with "javax.swing.WindowConstants" for "DO_NOTHING_ON_CLOSE".(ğÏ®XJ$89d7a65e-3c8b-4afc-a64b-f06dc8e8b590
+s	java:S106…"+Replace this use of System.out by a logger.(şÒãûÿÿÿÿ8öÄÏâ€2J$35f5c065-04d9-4bbb-8714-f87da2b1fb73
+‚
+java:S2147°"ECombine this catch with the one at line 429, which has the same body.(«üæòJ$a2e765e1-4c16-4b91-ad48-645dcdba3a16
+‚
+java:S2147³"ECombine this catch with the one at line 432, which has the same body.(ŸäÁ‚J$96094b19-64ea-4902-b39f-11cc74def7e5
+r
+java:S2696¬"6Make the enclosing method "static" or remove this set.(µá÷SJ$005f8cf0-e8dc-4768-920f-2071d37aaf07
+r
+java:S2696®"6Make the enclosing method "static" or remove this set.(áÀJ$451b0b5c-f6a7-4b81-8e6e-2a1fdd0be740
+r
+java:S2696±"6Make the enclosing method "static" or remove this set.(áÀJ$02a3307b-b9a3-46ef-b462-2eb2501af5d2
+r
+java:S2696´"6Make the enclosing method "static" or remove this set.(áÀJ$d1e8fba3-32af-45e0-b34b-fcf48334e91d
+x
+java:S2696¸"6Make the enclosing method "static" or remove this set.(‰ßº—øÿÿÿÿJ$2cc2707e-5beb-4d67-ad1c-2c9a5c15d6b6
+x
+java:S2696¹"6Make the enclosing method "static" or remove this set.(ÊÑ£úÿÿÿÿJ$879cd9a5-63be-4978-a9ac-8d04f79780c2
+x
+java:S2696Â"6Make the enclosing method "static" or remove this set.(ŞËÎ²ÿÿÿÿÿJ$25071ca0-1515-48f1-ace4-a7a89c1abb49
+
+java:S3252Ä"=Use static access with "java.awt.Frame" for "MAXIMIZED_BOTH".(“úêıùÿÿÿÿJ$353e85b6-f436-492d-a8a7-87c670f9892f
+x
+java:S2696Ï"6Make the enclosing method "static" or remove this set.(Ü¶ŞùÿÿÿÿÿJ$d771b422-7be5-4db0-a634-a999effc5959
+S
+java:S2696Û"6Make the enclosing method "static" or remove this set.(ı¥–o8Øóöâ€2
+
+java:S3776ß"RRefactor this method to reduce its Cognitive Complexity from 74 to the 15 allowed.(áÕ·ˆJ$0bf0ea5c-d7ba-4f90-8a8c-737aebaa74e7
+x
+java:S2696à"6Make the enclosing method "static" or remove this set.(Ì™ûÿÿÿÿJ$133d9990-974e-4da0-bf52-80c33ada9501
+c
+java:S1905æ"&Remove this unnecessary cast to "int".(İ¥¡‚J$ea433891-8ad4-4964-ab5c-27567df1d893
+c
+java:S1905æ"&Remove this unnecessary cast to "int".(İ¥¡‚J$61c93b24-812d-49c1-a70d-8a6952f173c4
+n	java:S106˜"+Replace this use of System.out by a logger.(ù¼äø8÷ÄÏâ€2J$9a034eab-0ea4-40aa-87ad-5da85a0ad65e
+z
+java:S2696™"6Make the enclosing method "static" or remove this set.(ê¸Œ§8Áòßâ€2J$43e9bbde-5c51-481e-abc8-1af0a84a4a4d
+
+java:S2696«"6Make the enclosing method "static" or remove this set.(¿Ÿ¸ûÿÿÿÿ8Áòßâ€2J$0f868f10-b7e1-4694-9dbc-b71a3bff172e
+
+java:S2696¬"6Make the enclosing method "static" or remove this set.(ÊÑ£úÿÿÿÿ8Áòßâ€2J$6a8ed25d-6a5a-48f3-aa1c-c9a2ee8ba581
+¢
+java:S2142À"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Áòßâ€2J$a29f4e64-d639-42d2-aa6f-f477e1cc76d2
+z
+java:S2696Ö"6Make the enclosing method "static" or remove this set.(ìúË¼8Áòßâ€2J$8a734d67-1009-46a1-8f98-14f10f363ac5
+T
+java:S2696ß"6Make the enclosing method "static" or remove this set.(»»ÁÀ8Úóöâ€2
+y
+java:S2696å"6Make the enclosing method "static" or remove this set.(áÀ8éÄÏâ€2J$dfcdb4f4-cb9d-4579-94b6-adb79a1077f8
+y
+java:S2696ï"6Make the enclosing method "static" or remove this set.(áÀ8Âòßâ€2J$6cd75c2d-af4f-4321-a96f-3f022736d75d
+n	java:S106ÿ"+Replace this use of System.out by a logger.(…Ì¼€8Áòßâ€2J$9dafc4eb-a207-47ff-aaf7-70400e95d89a
+z
+java:S2696€"6Make the enclosing method "static" or remove this set.(ê¸Œ§8Âòßâ€2J$db2cfea7-5ef7-495d-9c10-6f2cb07dca8e
+
+java:S2696’"6Make the enclosing method "static" or remove this set.(¿Ÿ¸ûÿÿÿÿ8Âòßâ€2J$31196418-49dc-41a7-b6d3-9b62eecb97f8
+
+java:S2696“"6Make the enclosing method "static" or remove this set.(ÊÑ£úÿÿÿÿ8Âòßâ€2J$a539934b-64bd-4db4-aac9-a38d6022c505
+¢
+java:S2142§"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Âòßâ€2J$b5b0d388-e4d8-4e62-9867-434b1fc34ae3
+y
+java:S2696¹"6Make the enclosing method "static" or remove this set.(áÀ8Âòßâ€2J$6dcab977-e6c4-4385-8530-9fe6cfb551fa
+y
+java:S2696Ã"6Make the enclosing method "static" or remove this set.(áÀ8Åòßâ€2J$f41af348-a0a7-4515-8462-b14faa60315e
+
+java:S3776Ö"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ŸÅŞ¶J$6ca0e048-9d26-4596-b87e-2d59ca954491
+x	java:S125Ş"<This block of commented-out lines of code should be removed.( ±ÊÚJ$29d8fd60-1ac7-430d-a898-6100c7e408c5
+?
+java:S1116í"Remove this empty statement.(ÎÍíøÿÿÿÿ8Üóöâ€2
+S
+java:S2696ø"6Make the enclosing method "static" or remove this set.(áÀ8Üóöâ€2
+}	java:S125ƒ"<This block of commented-out lines of code should be removed.(‹ì€àşÿÿÿÿJ$03ae6418-b79d-4ed4-8eda-24fc51f287e0
+x	java:S125”"<This block of commented-out lines of code should be removed.(÷ˆººJ$fd835140-a783-4f97-9e41-9320275c155b
+
+java:S2696¢"6Make the enclosing method "static" or remove this set.(¹ø¬úÿÿÿÿ8ëÄÏâ€2J$b0091f4c-df8d-4537-8152-b5b0f8d34644
+s	java:S106°"+Replace this use of System.out by a logger.(èú³¢ıÿÿÿÿ8Åòßâ€2J$a153ead1-d80a-4830-bfef-fc36b370c4d9
+„	java:S125¸"<This block of commented-out lines of code should be removed.(ƒç‹‰øÿÿÿÿ8ìÄÏâ€2J$ba59fb83-7fe1-457e-a93d-73cffc6ca2d8
+„	java:S125Ã"<This block of commented-out lines of code should be removed.(şì«¢ıÿÿÿÿ8íÄÏâ€2J$fa781273-d4f6-4359-84a7-67cc157cbd31
+s	java:S106Ô"+Replace this use of System.out by a logger.(‡…Ñóúÿÿÿÿ8Åòßâ€2J$0e145255-248e-46fd-82a6-f097af40a523
+Y	java:S125Ü"<This block of commented-out lines of code should be removed.(«¢Ñî8Şóöâ€2
+{
+java:S1135è"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8Åòßâ€2J$8c3dff6e-c782-4f0e-a40f-7c32e47301a4
+
+java:S2696ò"6Make the enclosing method "static" or remove this set.(¢ÊÀüÿÿÿÿ8Æòßâ€2J$91732bb5-9a9b-4b6c-a2f0-99bc5b1f8fe8
+ƒ
+java:S1161ô":Add the "@Override" annotation above this method signature(®î’×üÿÿÿÿ8òÄÏâ€2J$f3c57607-1695-4a14-af8e-5c57fca946fb
+n	java:S106"+Replace this use of System.out by a logger.(¨©Ú™8”óßâ€2J$6d4f18a9-c9c0-4190-9c99-c3b9e283e61f
+
+java:S2696˜"6Make the enclosing method "static" or remove this set.(² áùÿÿÿÿ8Óòßâ€2J$d1790b0f-2583-47c3-a7fc-2405d3fead57
+e
+java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ8Øòßâ€2J$20e491a2-850f-4762-8265-bef42dd23b59
+y
+java:S2696Œ"6Make the enclosing method "static" or remove this set.(ÈÕî8ñÄÏâ€2J$3cf7ec39-260e-4d35-b56c-2a5edc9429a0
+ƒ
+java:S1161š":Add the "@Override" annotation above this method signature(®î’×üÿÿÿÿ8Øòßâ€2J$f1164b61-6cd1-41f6-9a92-5c5b568d1ec7
+”
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(Ş´ùåúÿÿÿÿ8òÄÏâ€2J$ac8da5c7-abc4-47f4-8fe6-6fca89339ab0
+”	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(ÎË˜™şÿÿÿÿ8òÄÏâ€2J$1340d41a-bb54-43eb-ba62-5fd3cecdc560
+ƒ
+java:S1161ª":Add the "@Override" annotation above this method signature(Ö„˜şúÿÿÿÿ8óÄÏâ€2J$8fb41efd-fdaa-4fac-9f0a-ef366e87885b
+y
+java:S2696¬"6Make the enclosing method "static" or remove this set.(³É†B8óÄÏâ€2J$172d16d7-e085-42e5-9011-5ad2023b0d23
+}
+java:S1161±":Add the "@Override" annotation above this method signature(®—ËF8óÄÏâ€2J$a9168612-939b-431c-bd18-23b148143b45
+z
+java:S2696³"6Make the enclosing method "static" or remove this set.(—ã´8óÄÏâ€2J$d60dd902-5a5a-4843-9b58-1d57f0cb1875
+~
+java:S1161Ù":Add the "@Override" annotation above this method signature(ãÆĞÂ8ôÄÏâ€2J$8fc2f3de-2151-4c93-8580-e2067de8c5b6
+n	java:S106„	"+Replace this use of System.out by a logger.(ãƒ‰É8¹èâ€2J$75e05847-b9c1-41a5-8a0a-f814f2f667ef
+
+java:S1124‹	"EReorder the modifiers to comply with the Java Language Specification.(§‚É³üÿÿÿÿ8öÄÏâ€2J$2a41e5db-0db4-477a-ae4c-f5d1b67655a1
+‰
+java:S1124	"EReorder the modifiers to comply with the Java Language Specification.(’¨‰ó8÷ÄÏâ€2J$0bb4aad5-9dd3-455d-969a-e4e1d525c053
+Y	java:S125Ÿ	"<This block of commented-out lines of code should be removed.(ÙÕÀÏ8áóöâ€2
+‰
+java:S1124³	"EReorder the modifiers to comply with the Java Language Specification.(¥ß›ù8øÄÏâ€2J$5adf53c8-1b7a-4d46-a50c-93a02fbc97c8
+‰
+java:S1124»	"EReorder the modifiers to comply with the Java Language Specification.(Ş²Äì8ùÄÏâ€2J$2e67e65b-9ec2-48f3-9ed7-d54b7c4b1689
+
+java:S1124Ë	"EReorder the modifiers to comply with the Java Language Specification.(Œ³°ùÿÿÿÿ8—óßâ€2J$6c0c61e6-b7c1-4e2e-a6dc-4d1a6660d958
+‰
+java:S3398Ö	"@Move this method into the anonymous class declared at line 1048.(İ²”¡ÿÿÿÿÿ8ùÄÏâ€2J$6a737641-6306-49e5-a4e0-0fb1653b98bf
+‹
+java:S6541™"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 199 to 64, Complexity from 62 to 14, Nesting Level from 7 to 2, Number of Variables from 34 to 6.(“–ış8Û”™Ù€2J$b2efb84d-51d0-48c4-a511-a17e49fb586e

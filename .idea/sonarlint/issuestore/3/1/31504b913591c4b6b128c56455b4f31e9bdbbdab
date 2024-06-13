@@ -1,0 +1,51 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±Ş «J$1bec528e-e25c-4900-a0c6-2e5e9308022f
+Ã
+java:S1319k"The return type of this method should be an interface such as "ConcurrentMap" rather than the implementation "ConcurrentHashMap".(ˆ¸‰ÙÿÿÿÿÿJ$34270e3b-961c-4615-82cd-ea1a437cecba
+±
+java:S1319q"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(²¡Œ¯üÿÿÿÿJ$ddc3defb-05bc-4c9b-88c3-818b0becc4d4
+¿
+java:S1319¶"The return type of this method should be an interface such as "ConcurrentMap" rather than the implementation "ConcurrentHashMap".(¢ÑÍ¹J$220abbef-d991-4361-9bfa-b6a00e4ad15a
+š
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(© éÈıÿÿÿÿJ$49a87501-72b0-4dbb-87e1-b3eb0917d42d
+–
+java:S2293Ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(“š÷ÏJ$95965755-61f0-404b-a0c7-ccb738c0a7f4
+›
+java:S2293Ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûÚŸôøÿÿÿÿJ$2f5e20c2-f576-4c28-b675-e11f63a7a0bc
+–
+java:S2293Ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢‡‹™J$ded52dab-ca4f-416d-9a70-01eaae453640
+–
+java:S2293ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢‡‹™J$45a39641-c85d-4774-8237-68c04415cc3f
+“
+java:S3077$"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(•ıÎ„J$33c18fb4-d838-4390-87cf-8c1c101b9686
+
+java:S1124&"EReorder the modifiers to comply with the Java Language Specification.(ÜîËJ$2e006620-8d23-49e1-b0ad-86c5db58d6e4
+v	java:S899c";Do something with the "boolean" value returned by "remove".(ïŠŠúJ$71477661-a22b-48e0-9bde-8538ada6d64b
+{
+java:S4719–"9Replace charset name argument with StandardCharsets.UTF_8(ïÑõÆúÿÿÿÿJ$0e4ef029-3b61-42d5-8754-ccc5a4551609
+{
+java:S4719¦"9Replace charset name argument with StandardCharsets.UTF_8(ïÑõÆúÿÿÿÿJ$a236e5cd-3971-4b0b-bf35-fc0cbb4dba6f
+k
+java:S1905³")Remove this unnecessary cast to "Socket".(Ñ×¼ úÿÿÿÿJ$3b06ec29-78d6-42d7-8676-607d36d04a84
+f
+java:S1905Æ")Remove this unnecessary cast to "Socket".(¹‹ì˜J$612b1a3b-53a1-4f46-b01c-7938aba5e0d0
+g	java:S106Ö"+Replace this use of System.out by a logger.(¿Ñ¶”J$ebdaf907-5259-452c-9c75-aa4541473dad
+X
+java:S3626à"Remove this redundant jump.(ÉŠ©ƒJ$0ecaa30b-ae58-40a3-976e-f99d3ce926fa
+k
+java:S1905â")Remove this unnecessary cast to "Socket".(Ñ×¼ úÿÿÿÿJ$7b7bc878-241c-4d00-bda9-408feb2f04ff
+v
+java:S4719æ"9Replace charset name argument with StandardCharsets.UTF_8(·¤§J$3de313e0-b39d-4b1d-84d8-11dc3de13368
+k
+java:S1905÷")Remove this unnecessary cast to "Socket".(Ñ×¼ úÿÿÿÿJ$6ec6dcb4-1eb8-44c8-b6e6-5825571830e7
+v
+java:S4719û"9Replace charset name argument with StandardCharsets.UTF_8(·¤§J$611e8c60-09c3-423a-b74c-b7159621c9eb
+l	java:S106Ê"+Replace this use of System.out by a logger.(í…üşÿÿÿÿJ$65426769-9780-4550-9675-fad0172719a0
+l	java:S106Í"+Replace this use of System.out by a logger.(½œëˆÿÿÿÿÿJ$833a5825-0859-4dc4-8af9-e2ee8436f88d
+k
+java:S1905Ğ")Remove this unnecessary cast to "Socket".(ÔîÅÄûÿÿÿÿJ$c7174c59-dec2-479d-99ea-a3433dff22ed
+k
+java:S1905Ñ")Remove this unnecessary cast to "String".(ëúµ¨üÿÿÿÿJ$859d7693-e43b-4485-9e12-d471f3cc6fec
+{
+java:S4719Õ"9Replace charset name argument with StandardCharsets.UTF_8(ïÑõÆúÿÿÿÿJ$bb95892e-cd6e-4b56-b452-972980fef979
+s	java:S106Ü"+Replace this use of System.out by a logger.(Ÿìû‚øÿÿÿÿ8”š›ù€2J$116690c4-a23b-4f72-b0b9-38e39055229b

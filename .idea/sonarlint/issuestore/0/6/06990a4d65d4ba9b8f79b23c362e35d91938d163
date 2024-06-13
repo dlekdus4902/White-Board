@@ -1,0 +1,32 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾©ò¹J$907c7966-937d-4145-ac33-4bab5dfaf463
+‹
+java:S1104"OMake dtf a static final constant or non-public and provide accessors if needed.(Æ¡ÔËJ$fa5d92cb-fab1-4e8f-ac1e-3ef023aeac99
+”
+java:S1104"SMake logPane a static final constant or non-public and provide accessors if needed.(õÛôÚùÿÿÿÿJ$61bff485-dfd7-48d0-a7bc-859796afc2c6
+•
+java:S1104"YMake logScrollPane a static final constant or non-public and provide accessors if needed.(ƒ€ÊÅJ$922c8c65-23f9-48a5-953b-b204d6fcb0e9
+e
+java:S1444")Make this "public static dtf" field final(Æ¡ÔËJ$91efb674-4404-48dd-bc44-c72e0d3aaece
+n
+java:S1444"-Make this "public static logPane" field final(õÛôÚùÿÿÿÿJ$9dd6cdbe-3380-44de-ba67-095be8c886a9
+o
+java:S1444"3Make this "public static logScrollPane" field final(ƒ€ÊÅJ$70a4f580-282d-4d17-b32b-a64e30f72b9c
+w
+java:S2696+"6Make the enclosing method "static" or remove this set.(ŞËÎ²ÿÿÿÿÿJ$0cd32103-c551-4ab4-8475-6686f3a79395
+w
+java:S26969"6Make the enclosing method "static" or remove this set.(Ì™ûÿÿÿÿJ$114db575-f988-465e-9c6d-5ee383e70e27
+b
+java:S1905?"&Remove this unnecessary cast to "int".(İ¥¡‚J$354c9b87-fd00-4caf-b1d0-953da086cdbf
+b
+java:S1905?"&Remove this unnecessary cast to "int".(İ¥¡‚J$5e9807c0-668e-4231-9aaa-54cd4377b855
+w
+java:S2696m"6Make the enclosing method "static" or remove this set.(¨Æ¤‚şÿÿÿÿJ$908943d7-9bff-4597-8835-152e60f6fd69
+r
+java:S2696p"6Make the enclosing method "static" or remove this set.(áºÊ“J$33fd2174-1014-48fd-9df1-36c8d8f4e2e1
+k
+java:S1874v"0Remove this use of "setLabel"; it is deprecated.(ˆæ“3J$ce054fea-be7f-4be7-8777-8e89c0aa9f16
+r
+java:S1874"0Remove this use of "setLabel"; it is deprecated.(–îâèÿÿÿÿÿJ$498500ff-303f-4870-869a-4733c9a3dca1
+|
+java:S1128	"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8ÏÜ§ù€2J$e846c790-87a5-492b-ac99-9aae9d0f3936

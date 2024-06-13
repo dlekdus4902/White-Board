@@ -1,0 +1,23 @@
+
+‘	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı¦ÕûÿÿÿÿJ$7bbeb5dc-c85d-472e-9665-ac15a891a5c0
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾©ò¹J$8ab6eef4-5bbe-4f5d-8ec4-dcaceccf7516
+j
+java:S21893""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8“ıù€2J$0312b103-8d7f-4b26-831f-1400797d00fd
+
+java:S3776+"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(“–ışJ$67ed6812-f20b-4666-9d26-831add30993b
+‚
+java:S2438?":Replace this Thread instance with an instance of Runnable.(ü² Ëûÿÿÿÿ8ÔŒƒù€2J$7a0b9eda-f9f0-4a66-a046-0b9143d4553c
+
+java:S4719Y"9Replace charset name argument with StandardCharsets.UTF_8(ïÑõÆúÿÿÿÿ8ÖŒƒù€2J$d62e22dc-dc62-4553-a780-238e02ca3d1c
+
+java:S4719j"9Replace charset name argument with StandardCharsets.UTF_8(ïÑõÆúÿÿÿÿ8ÖŒƒù€2J$3d099a30-b6b8-4705-bfdc-6679cd4e5e4a
+h
+java:S1128"%Remove this unused import 'java.awt'.(ï´µ©8ÁÅ¢ù€2J$083ac492-a29f-4ac3-9205-cd0cd09d4c2d
+|
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8ÁÅ¢ù€2J$19fd802c-1ed7-48af-83dd-1df6da400f7a
+u
+java:S1068"-Remove this unused "roomowner" private field.(¨ø­ßúÿÿÿÿ8¬Ä…ù€2J$63d0d209-7ca7-4699-bec3-f3d95d51688a
+t
+java:S1068",Remove this unused "hostname" private field.(‰É§ÿÿÿÿÿ8¬Ä…ù€2J$6262ec10-e528-4d7b-93fd-195ba6889551
+v
+java:S1068".Remove this unused "portnumber" private field.(¨½¶²ıÿÿÿÿ8¦Ÿù€2J$fd5771c8-2393-4cba-a558-8eb78282f35c

@@ -1,0 +1,31 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿÂõæJ$2d1ee6c2-8c59-4248-bb7f-ef17ba7379cc
+¢
+java:S1319"fThe type of "shapes" should be an interface such as "List" rather than the implementation "ArrayList".(•¡ğêJ$8a55efe1-ffdb-419e-a36a-c299425b1ba7
+±
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(£èûïşÿÿÿÿJ$f653a30d-ef84-4266-b00f-e75f499e3d70
+¢
+java:S1319"fThe type of "shapes" should be an interface such as "List" rather than the implementation "ArrayList".(øÜÏùJ$e2a4d28f-7e01-4a22-af86-b00f36c0d301
+š
+java:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(Î’ƒûÿÿÿÿJ$b16451d6-5c6f-49ce-95cc-7281099ad9a0
+š
+java:S2293Q"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘¿×êùÿÿÿÿJ$9b8f6007-df37-4ea8-afb3-4c8ff79810ca
+‘
+java:S20959"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(ˆÔ§ğşÿÿÿÿJ$66388dc6-aaac-44d6-ac56-d8dd475655f8
+
+java:S2095H"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(¾Å¨ÎûÿÿÿÿJ$d4278842-a39b-44d3-9917-84a09c4d76bb
+Š
+java:S20958"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(¸ŸùœJ$f31a2d8b-055d-4b15-9057-9e1bb6050501
+
+java:S2095G"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¶Ê®‘ÿÿÿÿÿJ$4bc2cc11-385e-4f9e-ae92-055ea3790e2b
+
+java:S2095+"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Š×ØùùÿÿÿÿJ$838b60e3-6b2c-4f66-9485-2b4d1e43ff4f
+‘
+java:S2095,"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(ˆÔ§ğşÿÿÿÿJ$903f8932-d660-4274-a661-ac18e1c4a8c8
+‰	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğúÅ§J$5e0eece4-1381-491b-9982-55de4dd87a61
+‰	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¾‹ÉJ$dd5acb1a-7fd2-4760-b638-c429e4888467
+	java:S1006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“°ù„ıÿÿÿÿJ$56cb6ba2-ef03-4f68-a5b7-c4afa3477810
+‰	java:S100C"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¶–ÑJ$200ca85e-fc9d-4a4c-9a3d-4982f13a0f84
+k	java:S106E"+Replace this use of System.out by a logger.(…ßœ¥şÿÿÿÿJ$6b2969cf-df4e-4cf9-95f6-935b2343300f
+{
+java:S1117J":Rename "shapes" which hides the field declared at line 17.(ı¹ì²úÿÿÿÿJ$ed8e7498-23af-4458-ae8c-ba92746044c7

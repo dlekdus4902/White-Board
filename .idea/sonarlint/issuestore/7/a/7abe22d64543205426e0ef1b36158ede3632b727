@@ -1,0 +1,70 @@
+
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•έΘ‚ύÿÿÿÿJ$bc7fe8ce-11dc-48d4-8b51-6ddb05cfef52
+n
+java:S1153³"1Directly append the argument of String.valueOf().(ΙΨΒϊJ$ca23da4f-c9ba-4e98-8389-d7afc233a6a6
+n
+java:S1153Ξ"1Directly append the argument of String.valueOf().(ΙΨΒϊJ$e260f72e-4049-4199-8fd8-0cdab17c57c5
+n
+java:S1153ι"1Directly append the argument of String.valueOf().(ΙΨΒϊJ$66709a05-ad83-4e79-b84b-4de8eb9bb7fe
+n
+java:S1153…"1Directly append the argument of String.valueOf().(ΙΨΒϊJ$a5e5f9be-057d-4fb5-8391-d29bc573d43a
+n
+java:S1153΄"1Directly append the argument of String.valueOf().(ΙΨΒϊJ$84f753c5-f615-44f5-9bfb-5a3a3dbb9b6f
+n
+java:S1153Ο"1Directly append the argument of String.valueOf().(ΙΨΒϊJ$185ee098-ec5c-4f4c-8e28-337d7e570e94
+n
+java:S1153κ"1Directly append the argument of String.valueOf().(ΙΨΒϊJ$040ec99d-c3e5-4a8f-87d0-c1f4a113879c
+n
+java:S1153„"1Directly append the argument of String.valueOf().(ΙΨΒϊJ$b72ea6f1-4000-4b17-9fd5-039f6eb994a4
+„
+java:S1192F"HDefine a constant instead of duplicating this literal "Source" 13 times.(ζ‚έ΄J$a9dc9913-8df1-450c-b4a2-624253547ecf
+£
+java:S1192N"gDefine a constant instead of duplicating this literal " Request timeout, check the connection" 9 times.(Ζ±®J$3c3e707b-8276-4559-ab84-062916d02b0f
+ά
+java:S1192W"Define a constant instead of duplicating this literal "Failure: IO Exception, check input or output streams | Terminate the client and restart later" 11 times.(Ιπ¥J$a2e47d1c-2368-4d93-a1a3-61954e9310aa
+„
+java:S1192F"HDefine a constant instead of duplicating this literal "Client" 13 times.(ζ‚έ΄J$4938408b-48b3-4069-8048-43668771ae5b
+…
+java:S1192N"IDefine a constant instead of duplicating this literal "Timeout" 10 times.(Ζ±®J$522820f7-d282-446d-9409-78881e54dd91
+Τ
+java:S1192S"Define a constant instead of duplicating this literal "Failure: Connection is lost or Server is down | Terminate the client and restart later" 11 times.(£‘΅OJ$4ef05742-7b67-40cf-9574-015c36358931
+‹
+java:S1192®"IDefine a constant instead of duplicating this literal "Username" 8 times.(Ή“›ΔώÿÿÿÿJ$70f48ec0-8469-4f0a-bd92-a79412e323ce
+Β
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ΠΨ£ÿÿÿÿÿJ$69741a26-7436-42ee-b3bc-82fcaec43831
+µ
+java:S1130"tRemove the declaration of thrown exception 'java.net.ConnectException' which is a subclass of 'java.io.IOException'.(¤ΔΛψÿÿÿÿJ$393d1a14-921b-4413-b208-c1592da9aac4
+Ή
+java:S1130"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(¤ΔΛψÿÿÿÿJ$cc0a435c-07a5-42da-a874-1fe510897d09
+u
+java:S4719&"9Replace charset name argument with StandardCharsets.UTF_8(™”–ΒJ$dcebd56c-fb4a-4e6e-9c6c-a59b28dc056f
+»
+java:S1130>"sRemove the declaration of thrown exception 'Exceptions.CustomException', as it cannot be thrown from method's body.(ΕιΒξωÿÿÿÿ8ν΅έψ€2J$471918b5-96bf-485e-888d-68d7d98ecb53
+¶
+java:S1130\"sRemove the declaration of thrown exception 'Exceptions.CustomException', as it cannot be thrown from method's body.(η‹°8ν΅έψ€2J$4e777a5a-d9ff-43a3-aa2f-fe50da281d41
+¶
+java:S1130z"sRemove the declaration of thrown exception 'Exceptions.CustomException', as it cannot be thrown from method's body.(‚¤‘φ8ν΅έψ€2J$8d041519-e044-40af-89a0-bedb69f42d14
+Ό
+java:S1130“"sRemove the declaration of thrown exception 'Exceptions.CustomException', as it cannot be thrown from method's body.(‚©Η“ϊÿÿÿÿ8ν΅έψ€2J$9a1246ab-eedc-46e0-8d12-b4af31da14a9
+q
+java:S1172“"/Remove this unused method parameter "threshod".(‚©Η“ϊÿÿÿÿJ$7e88e4cc-1652-429a-b2e4-db2012351e71
+·
+java:S1130¦"sRemove the declaration of thrown exception 'Exceptions.CustomException', as it cannot be thrown from method's body.(Υ¦ό“8ν΅έψ€2J$485a3ace-cc83-4baf-a25e-b0178245a263
+·
+java:S1130Α"sRemove the declaration of thrown exception 'Exceptions.CustomException', as it cannot be thrown from method's body.(ΦΌδ8ν΅έψ€2J$46b13abb-7384-4e9e-abd8-dd1251f52f23
+Ό
+java:S1130ά"sRemove the declaration of thrown exception 'Exceptions.CustomException', as it cannot be thrown from method's body.(ΪΦ¨ΰϊÿÿÿÿ8ν΅έψ€2J$21543e80-d2ff-4dc2-86a1-64490786dc53
+·
+java:S1130χ"sRemove the declaration of thrown exception 'Exceptions.CustomException', as it cannot be thrown from method's body.(ΥΜΡψ8ν΅έψ€2J$57e46cea-ac6d-4194-852b-ae539c10ad89
+Ό
+java:S1130“"sRemove the declaration of thrown exception 'Exceptions.CustomException', as it cannot be thrown from method's body.(‹Σ—ύϋÿÿÿÿ8ξ΅έψ€2J$ddf67dab-39fc-474c-a6db-90fa308fd1dc
+q
+java:S1172“"/Remove this unused method parameter "threshod".(‹Σ—ύϋÿÿÿÿJ$3cd2bca7-516c-4767-b47b-246882e8cdec
+Ό
+java:S1130§"sRemove the declaration of thrown exception 'Exceptions.CustomException', as it cannot be thrown from method's body.(ναΨίÿÿÿÿÿ8ο΅έψ€2J$fc1f3855-404a-45c4-9b4e-8e4575af40af
+·
+java:S1130Β"sRemove the declaration of thrown exception 'Exceptions.CustomException', as it cannot be thrown from method's body.(Λχϋξ8ο΅έψ€2J$90830b92-e0d5-4ed8-b272-753b1ab7af9f
+Ό
+java:S1130έ"sRemove the declaration of thrown exception 'Exceptions.CustomException', as it cannot be thrown from method's body.(¬¤„ϋÿÿÿÿ8π΅έψ€2J$e470b8ae-39a4-4de4-b37d-f6b8c53dcb35
+·
+java:S1130ψ"sRemove the declaration of thrown exception 'Exceptions.CustomException', as it cannot be thrown from method's body.(Α±Ϊο8ρ΅έψ€2J$0b17e5b0-a505-4ed9-aa28-9301cfc19171

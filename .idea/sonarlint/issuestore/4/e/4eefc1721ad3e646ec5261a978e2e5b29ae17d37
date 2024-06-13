@@ -1,0 +1,41 @@
+
+‘	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ý¦ÕŽûÿÿÿÿJ$e989ea32-9acb-46d7-a00e-af3313b739b2
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾©ò¹J$7333a94d-2830-4dee-8d36-da6368a924a6
+c
+java:S2189Z""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿJ$5a158222-af9b-4e82-b502-3117a6fffde0
+w	java:S125"<This block of commented-out lines of code should be removed.(×ÙÌãJ$8a75d10b-506d-400c-9b59-8aebb58e43b1
+|	java:S125"<This block of commented-out lines of code should be removed.(¥£õùÿÿÿÿJ$70998ec0-ca91-416e-90ff-1cd81856e835
+Ž
+java:S37768"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(“–ýþJ$376b9733-37a4-45ea-93b6-658f188c64ad
+|	java:S125;"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿJ$74c66a0f-0fba-4155-9cd5-83fdab52cae4
+f	java:S106["+Replace this use of System.out by a logger.(‚Ì›¡J$92d29e91-6de5-4497-95d9-816d57fb4e35
+]	java:S125\"<This block of commented-out lines of code should be removed.(èÿ¬åþÿÿÿÿ8ŒûÀâ€2
+W	java:S125b"<This block of commented-out lines of code should be removed.(ØÇŒj8ŒûÀâ€2
+~	java:S125f"<This block of commented-out lines of code should be removed.(¾ÚÏ8Ë¾žâ€2J$7712457a-e78d-4d4c-82e2-4ea1b0ab90f6
+ƒ	java:S125m"<This block of commented-out lines of code should be removed.(ß„î±úÿÿÿÿ8Ë¾žâ€2J$6c42293c-5e02-410c-999f-5b20e1e613e6
+{
+java:S2438r":Replace this Thread instance with an instance of Runnable.(€½•ùÿÿÿÿJ$7fd034db-e286-43ff-a06f-88f79a45df20
+~	java:S125t"<This block of commented-out lines of code should be removed.(±ñÓŠ8Ë¾žâ€2J$ed140d1e-6f0e-4a03-838d-57dffb5a53ae
+g	java:S106‰"+Replace this use of System.out by a logger.(¤Ø¾žJ$b3c566f0-c5ee-406c-a80a-1a2c054fe149
+k
+java:S1905š")Remove this unnecessary cast to "Socket".(ÔîÅÄûÿÿÿÿJ$e2cb5846-a3ef-480b-b8e8-0ae2de69fe76
+k
+java:S1905›")Remove this unnecessary cast to "String".(ëúµ¨üÿÿÿÿJ$19380ab4-0ece-4ff7-9dad-4c8fcd912353
+o
+java:S1481›"-Remove this unused "username" local variable.(ëúµ¨üÿÿÿÿJ$837f67b9-6745-4d35-b972-9e082e68ac32
+{
+java:S4719Ÿ"9Replace charset name argument with StandardCharsets.UTF_8(ïÑõÆúÿÿÿÿJ$a971ca3a-df9a-4e04-b601-db82ef38ac2a
+{
+java:S4719°"9Replace charset name argument with StandardCharsets.UTF_8(ïÑõÆúÿÿÿÿJ$3639d78c-7b4a-457a-b94f-87006d6e3a3d
+}	java:S125Ë"<This block of commented-out lines of code should be removed.(“¸ëãüÿÿÿÿJ$1a60233e-feb6-4a19-ab6e-70ca06d23235
+x	java:S125Ï"<This block of commented-out lines of code should be removed.(ÌÛûÒJ$c0a1d2a5-8222-4bac-9fc4-a354aa8df9fe
+x	java:S125ô"<This block of commented-out lines of code should be removed.(›Ø¾J$911cd253-d0d6-462f-b39f-35d7178c9624
+e
+java:S1128
+""Remove this unused import 'Shape'.(‹Ößé8ùš¼â€2J$dfc30e22-d625-4f05-b4c0-eb80e06789c1
+
+java:S1128"7Remove this unused import 'org.json.simple.JSONObject'.(‚ƒç‘ÿÿÿÿÿ8ùš¼â€2J$37956f5b-d0b5-43a6-a89f-5554ac327381
+n
+java:S1068"-Remove this unused "roomowner" private field.(¨ø­ßúÿÿÿÿJ$d4109443-356e-4593-99d0-0fe05b13184b
+m
+java:S1068",Remove this unused "hostname" private field.(‰É§ÿÿÿÿÿJ$31373100-b09b-4237-92af-314aaef35311

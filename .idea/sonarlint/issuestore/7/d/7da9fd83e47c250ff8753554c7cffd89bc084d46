@@ -1,0 +1,81 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÊİƒúÿÿÿÿJ$de9ad902-2231-45eb-a270-2f42dddefa83
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾©ò¹J$4051b98b-5b3e-48b0-9d9d-392ea602270a
+k
+java:S1066ú"/Merge this if statement with the enclosing one.(²é»eJ$a5121174-bf91-46a8-accb-448c477523ea
+‰
+java:S1192H"HDefine a constant instead of duplicating this literal "Server" 23 times.(ÅÎßûÿÿÿÿJ$1dbf1044-8a3f-43cb-b24b-809f467abf4b
+…
+java:S1192²"HDefine a constant instead of duplicating this literal "In_Room" 3 times.(òä¾–J$a8461fef-b2c2-4775-b5f7-59123dd228da
+ƒ
+java:S1192‘"FDefine a constant instead of duplicating this literal "Leave" 3 times.(ş¿“°J$bc646c67-e4db-4d8a-828e-5b879f8d94e4
+
+java:S1192·"KDefine a constant instead of duplicating this literal "BoardState" 3 times.(ÃÓùÿÿÿÿJ$98834026-5917-4250-918b-2da76d7ad961
+‰
+java:S1192@"HDefine a constant instead of duplicating this literal "Source" 36 times.(æí±æıÿÿÿÿJ$d3c2389f-a312-43da-8097-eb2de41ea223
+‰
+java:S1192@"HDefine a constant instead of duplicating this literal "Client" 13 times.(æí±æıÿÿÿÿJ$2d638484-1639-4614-a012-fc88bb102356
+†
+java:S1192¸"IDefine a constant instead of duplicating this literal "UserList" 3 times.(–·¾J$72631ee7-f6ca-4d2b-9c38-a38e329870a4
+„
+java:S1192²"GDefine a constant instead of duplicating this literal "Status" 4 times.(òä¾–J$78fa0de2-28c9-4f49-8d7e-4294d78103e9
+„
+java:S1192±"GDefine a constant instead of duplicating this literal "Accept" 4 times.(…™±J$a5fd3765-ec8b-4a0b-9af2-8b7f22507a76
+…
+java:S1192‰"HDefine a constant instead of duplicating this literal "message" 5 times.(˜Ù‘£J$12549566-1af9-4119-9a6e-2c0ea8daa974
+Š
+java:S1192_"IDefine a constant instead of duplicating this literal "Username" 9 times.(«…¹”ÿÿÿÿÿJ$d073b586-66dd-4aaa-99c6-abb381de6de7
+ƒ
+java:S1192«"FDefine a constant instead of duplicating this literal "Enter" 4 times.(ÒÏÕÒJ$5e425950-897d-437d-b92e-42735a0e074a
+Š
+java:S1192B"NDefine a constant instead of duplicating this literal "ObjectString" 14 times.(İˆ ºJ$3df591af-bb3f-49b3-8c2f-fb7d43f28442
+‚
+java:S1192I"FDefine a constant instead of duplicating this literal "Reply" 3 times.(ˆ¤ŠÅJ$faaec77e-edbb-420b-aae0-21a975587d42
+ƒ
+java:S1192Ì"FDefine a constant instead of duplicating this literal "Close" 3 times.(é²‘J$c386be2f-67e0-4ec8-9c38-add261f96563
+‹
+java:S1192Š"IDefine a constant instead of duplicating this literal "username" 9 times.(§–×ğúÿÿÿÿJ$e8e06003-5057-4807-971a-1a9bafc7a290
+²
+java:S1130""qRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from constructor's body.(ã¸È”ıÿÿÿÿJ$07bf5ca2-ea8b-4b01-9c54-d12f607ccaa7
+
+java:S3776)"SRefactor this method to reduce its Cognitive Complexity from 116 to the 15 allowed.(“–ışJ$ef45f6e8-7db5-473a-9acf-606385febff7
+‡
+java:S2147”"ECombine this catch with the one at line 524, which has the same body.(âÃƒŠıÿÿÿÿJ$0889dcbc-e3c6-4d5f-a057-cc275c024d42
+‚
+java:S2147–"ECombine this catch with the one at line 532, which has the same body.(ıàÑÎJ$1fef301e-2df6-4164-a18d-518fc5dc44eb
+}
+java:S1117_"<Rename "username" which hides the field declared at line 30.(«…¹”ÿÿÿÿÿJ$fa203738-a55d-476c-8a61-ee5fd36d80fc
+~
+java:S1117‚"<Rename "username" which hides the field declared at line 30.(«…¹”ÿÿÿÿÿJ$fca62f7a-66aa-423f-8dd4-93c49226fac1
+~
+java:S1117’"<Rename "username" which hides the field declared at line 30.(«…¹”ÿÿÿÿÿJ$5c32f6d0-b759-48e3-a1b4-0cd7aff402bb
+{
+java:S1155Ÿ">Use isEmpty() to check whether the collection is empty or not.(İ‡ï«J$fcef1d81-0fae-4960-be44-db2dfc2b0d0b
+v
+java:S4719½"9Replace charset name argument with StandardCharsets.UTF_8(«É¹±J$b03692a3-656b-4b5e-86fe-679a0fd578fa
+u
+java:S4719â"9Replace charset name argument with StandardCharsets.UTF_8(ãïº:J$947bb4b7-aaaa-403f-ae1c-7da7fc5d9f01
+{
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(’â‰‰J$f8a3bdb6-36b0-4427-8744-a889a6510cf1
+v
+java:S4719«"9Replace charset name argument with StandardCharsets.UTF_8(«É¹±J$bcb4cfa7-c971-47a6-81c3-3cb8a9f1e249
+~
+java:S1117Í"<Rename "username" which hides the field declared at line 30.(«…¹”ÿÿÿÿÿJ$692752e5-e370-419b-9f50-3db14327a210
+v
+java:S4719À"9Replace charset name argument with StandardCharsets.UTF_8(«É¹±J$8e04fb1d-2e5c-42ef-8ce0-fdf78b0f13a7
+v
+java:S4719Ó"9Replace charset name argument with StandardCharsets.UTF_8(«É¹±J$5de47b32-3313-4e87-b264-24e0a79ceeff
+
+java:S1155ú">Use isEmpty() to check whether the collection is empty or not.(²é»e8”é£ù€2J$54bf65e8-cc70-4aec-aab0-aed7df425758
+q	java:S108’")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ8ŸÑ¦ù€2J$8e237af0-5c8c-4e69-94da-55b1f7fa104c
+u
+java:S4719´"9Replace charset name argument with StandardCharsets.UTF_8(ãïº:J$e872b077-4053-4013-8f2c-d0757620aad6
+s	java:S106Å"+Replace this use of System.out by a logger.(”… ˜ûÿÿÿÿ8€”¤ù€2J$0ed98d49-3ae1-4fe5-8d97-a6fb0ca56d3f
+h
+java:S1128"%Remove this unused import 'java.awt'.(ï´µ©8¢Ñ¦ù€2J$1d358d69-359f-44db-a3b8-2d3dae5b7b2d
+|
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8¢Ñ¦ù€2J$e1e3cac9-0260-4081-b6e6-a9935613fc1e
+l
+java:S1068"0Remove this unused "clientnumber" private field.(¡ÉÒ¸J$04693edc-cb71-4c38-a6cc-8b17403ba0dc
+„
+java:S6541)"ÇA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 378 to 64, Complexity from 57 to 14, Nesting Level from 6 to 2, Number of Variables from 108 to 6.(“–ışJ$33a2b521-dde9-4b57-b001-33f8528e14c0
